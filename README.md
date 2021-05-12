@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Yourmaidishere/lab04.svg?branch=master)](https://travis-ci.com/Yourmaidishere/lab04)
+
 Добавила .travis.yml
 ```
 
