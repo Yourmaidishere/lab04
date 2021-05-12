@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 project(hello_world)
-set(CMAKE_CXX_STANDARD 11)
+add_definitions(-std=c++0x)
 include_directories(formatter_ex_lib)
 add_subdirectory(formatter_ex_lib)
 add_executable(hello_world hello_world.cpp)
